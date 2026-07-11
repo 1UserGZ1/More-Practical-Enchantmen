@@ -1,0 +1,71 @@
+{
+  "itemGroup.morepracticalenchantments.main": "更实用的附魔",
+
+  "effect.morepracticalenchantments.frost": "霜冻",
+
+  "enchantment.morepracticalenchantments.life_steal": "吸血",
+  "enchantment.morepracticalenchantments.life_steal.desc": "攻击恢复生命，每级+5%",
+
+  "enchantment.morepracticalenchantments.jump_boost": "跳跃提升",
+  "enchantment.morepracticalenchantments.jump_boost.desc": "永久跳跃增强",
+
+  "enchantment.morepracticalenchantments.magma_protection": "岩浆保护",
+  "enchantment.morepracticalenchantments.magma_protection.desc": "减免岩浆灼烧伤害，每级20%",
+
+  "enchantment.morepracticalenchantments.void_protection": "虚空保护",
+  "enchantment.morepracticalenchantments.void_protection.desc": "掉落虚空时传送回安全位置",
+
+  "enchantment.morepracticalenchantments.swiftness": "快手",
+  "enchantment.morepracticalenchantments.swiftness.desc": "提升攻击速度，每级+0.2",
+
+  "enchantment.morepracticalenchantments.experience_gain": "经验汲取",
+  "enchantment.morepracticalenchantments.experience_gain.desc": "击杀获得额外经验，每级+100%",
+
+  "enchantment.morepracticalenchantments.sprint_boost": "疾跑",
+  "enchantment.morepracticalenchantments.sprint_boost.desc": "疾跑时移速逐渐提升，最高+50%",
+
+  "enchantment.morepracticalenchantments.natural_mending": "自然修补",
+  "enchantment.morepracticalenchantments.natural_mending.desc": "随时间自动修复耐久，等级越高冷却越短",
+
+  "enchantment.morepracticalenchantments.smelting": "熔炼",
+  "enchantment.morepracticalenchantments.smelting.desc": "挖掘矿石直接产出锭，沙子变玻璃（受时运影响）",
+
+  "enchantment.morepracticalenchantments.night_vision": "夜视",
+  "enchantment.morepracticalenchantments.night_vision.desc": "头盔提供永久夜视效果",
+
+  "enchantment.morepracticalenchantments.pillager": "掠夺者",
+  "enchantment.morepracticalenchantments.pillager.desc": "击杀生物额外掉落绿宝石，每级+1",
+
+  "enchantment.morepracticalenchantments.rebirth_binding": "重生绑定",
+  "enchantment.morepracticalenchantments.rebirth_binding.desc": "死亡后此物品不丢失，位置保持不变",
+
+  "enchantment.morepracticalenchantments.leap": "借力",
+  "enchantment.morepracticalenchantments.leap.desc": "滑翔时按住前进获得加速",
+
+  "enchantment.morepracticalenchantments.cat_mint": "猫薄荷",
+  "enchantment.morepracticalenchantments.cat_mint.desc": "吸引猫并吓跑苦力怕",
+
+  "enchantment.morepracticalenchantments.suppress": "压制",
+  "enchantment.morepracticalenchantments.suppress.desc": "攻击附加虚弱效果，持续3秒",
+
+  "enchantment.morepracticalenchantments.frost": "霜冻",
+  "enchantment.morepracticalenchantments.frost.desc": "命中附加缓慢Ⅲ和冰冻伤害（与火焰附加冲突）",
+
+  "enchantment.morepracticalenchantments.deep_insight": "深海洞察",
+  "enchantment.morepracticalenchantments.deep_insight.desc": "水下和岩浆中视野清晰无雾效",
+
+  "enchantment.morepracticalenchantments.cold_resistance": "耐寒",
+  "enchantment.morepracticalenchantments.cold_resistance.desc": "免疫冰冻伤害",
+
+  "enchantment.morepracticalenchantments.beheading": "斩首",
+  "enchantment.morepracticalenchantments.beheading.desc": "击杀生物概率掉落头颅，I~V级概率10%~50%",
+
+  "enchantment.morepracticalenchantments.steadfast": "稳固",
+  "enchantment.morepracticalenchantments.steadfast.desc": "盾牌被斧攻击后立即刷新冷却",
+
+  "enchantment.morepracticalenchantments.luck": "幸运",
+  "enchantment.morepracticalenchantments.luck.desc": "穿戴后提供幸运效果，I~III级对应Luck I~III",
+
+  "enchantment.morepracticalenchantments.armor_protection": "盔甲保护",
+  "enchantment.morepracticalenchantments.armor_protection.desc": "继承原版保护减伤，最高等级Ⅴ，每级+2点伤害吸收，满级10点；脱战5秒补满护盾，与全部原版保护、岩浆保护互斥"
+}

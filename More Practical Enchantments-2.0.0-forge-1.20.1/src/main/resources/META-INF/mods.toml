@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[47,)"   # 兼容所有 47.x.x 版本
+license="All rights reserved"
+
+[[mods]]
+modId="morepracticalenchantments"
+version="1.0.0"
+displayName="More Practical Enchantments"
+displayURL="https://github.com/yourname"
+authors="DY_XiaoJiaZi"
+credits="感谢所有支持者"
+logoFile="assets/morepracticalenchantments/icon.png"
+description='''
+更实用的附魔 (More Practical Enchantments) 为 Minecraft 添加了 13 种全新附魔，涵盖武器、防具和工具。
+所有附魔均经过精心平衡，支持中文显示。
+'''

@@ -1,0 +1,71 @@
+{
+  "itemGroup.morepracticalenchantments.main": "More Practical Enchantments",
+
+  "effect.morepracticalenchantments.frost": "Frost",
+
+  "enchantment.morepracticalenchantments.life_steal": "Life Steal",
+  "enchantment.morepracticalenchantments.life_steal.desc": "Heals on attack, +5% per level",
+
+  "enchantment.morepracticalenchantments.jump_boost": "Jump Boost",
+  "enchantment.morepracticalenchantments.jump_boost.desc": "Permanent jump enhancement",
+
+  "enchantment.morepracticalenchantments.magma_protection": "Magma Protection",
+  "enchantment.morepracticalenchantments.magma_protection.desc": "Reduces lava/fire damage, 20% per level",
+
+  "enchantment.morepracticalenchantments.void_protection": "Void Protection",
+  "enchantment.morepracticalenchantments.void_protection.desc": "Teleports to safety when falling into void",
+
+  "enchantment.morepracticalenchantments.swiftness": "Swiftness",
+  "enchantment.morepracticalenchantments.swiftness.desc": "Increases attack speed, +0.2 per level",
+
+  "enchantment.morepracticalenchantments.experience_gain": "Experience Gain",
+  "enchantment.morepracticalenchantments.experience_gain.desc": "Extra XP on kills, +100% per level",
+
+  "enchantment.morepracticalenchantments.sprint_boost": "Sprint Boost",
+  "enchantment.morepracticalenchantments.sprint_boost.desc": "Speed gradually increases while sprinting, up to +50%",
+
+  "enchantment.morepracticalenchantments.natural_mending": "Natural Mending",
+  "enchantment.morepracticalenchantments.natural_mending.desc": "Repairs over time, cooldown decreases with level",
+
+  "enchantment.morepracticalenchantments.smelting": "Smelting",
+  "enchantment.morepracticalenchantments.smelting.desc": "Mined ores drop ingots, sand drops glass (affected by Fortune)",
+
+  "enchantment.morepracticalenchantments.night_vision": "Night Vision",
+  "enchantment.morepracticalenchantments.night_vision.desc": "Permanent night vision when worn on head",
+
+  "enchantment.morepracticalenchantments.pillager": "Pillager",
+  "enchantment.morepracticalenchantments.pillager.desc": "Kills drop extra emeralds, +1 per level",
+
+  "enchantment.morepracticalenchantments.rebirth_binding": "Rebirth Binding",
+  "enchantment.morepracticalenchantments.rebirth_binding.desc": "Item stays with you after death, keeping its slot",
+
+  "enchantment.morepracticalenchantments.leap": "Leap",
+  "enchantment.morepracticalenchantments.leap.desc": "Hold forward while gliding to gain speed",
+
+  "enchantment.morepracticalenchantments.cat_mint": "Cat Mint",
+  "enchantment.morepracticalenchantments.cat_mint.desc": "Attracts cats and repels creepers",
+
+  "enchantment.morepracticalenchantments.suppress": "Suppress",
+  "enchantment.morepracticalenchantments.suppress.desc": "Attacks inflict Weakness for 3 seconds",
+
+  "enchantment.morepracticalenchantments.frost": "Frost",
+  "enchantment.morepracticalenchantments.frost.desc": "Inflicts Slowness III and frost damage (conflicts with Flame)",
+
+  "enchantment.morepracticalenchantments.deep_insight": "Deep Insight",
+  "enchantment.morepracticalenchantments.deep_insight.desc": "Clear vision underwater and in lava",
+
+  "enchantment.morepracticalenchantments.cold_resistance": "Cold Resistance",
+  "enchantment.morepracticalenchantments.cold_resistance.desc": "Immune to freeze damage",
+
+  "enchantment.morepracticalenchantments.beheading": "Beheading",
+  "enchantment.morepracticalenchantments.beheading.desc": "Chance to drop heads on kill, 10%~50% from I to V",
+
+  "enchantment.morepracticalenchantments.steadfast": "Steadfast",
+  "enchantment.morepracticalenchantments.steadfast.desc": "Shield cooldown resets when hit by axe",
+
+  "enchantment.morepracticalenchantments.luck": "Luck",
+  "enchantment.morepracticalenchantments.luck.desc": "Wearing armor grants Luck I~III effect",
+
+  "enchantment.morepracticalenchantments.armor_protection": "Armor Protection V",
+  "enchantment.morepracticalenchantments.armor_protection.desc": "Provides 2 absorption health per level (max 10), refills after 5s out of combat (conflicts with all Protection enchants)"
+}
